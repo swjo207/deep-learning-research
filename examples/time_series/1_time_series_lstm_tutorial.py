@@ -133,7 +133,7 @@ plt.show()
 
 
 """
-# Below I compare the mean of different featuresresampled over day.
+# Below I compare the mean of different featuresre sampled over day.
 # specify columns to plot
 cols = [0, 1, 2, 3, 5, 6]
 i = 1
