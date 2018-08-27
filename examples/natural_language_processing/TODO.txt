@@ -1,0 +1,42 @@
+﻿https://github.com/tensorflow/nmt#introduction
+
+Neural Machine Translation (seq2seq) Tutorial
+Authors: Thang Luong, Eugene Brevdo, Rui Zhao (Google Research Blogpost, Github)
+
+This version of the tutorial requires TensorFlow Nightly. For using the stable TensorFlow versions, please consider other branches such as tf-1.4.
+
+If make use of this codebase for your research, please cite this.
+
+Introduction
+Basic
+Background on Neural Machine Translation
+Installing the Tutorial
+Training – How to build our first NMT system
+Embedding
+Encoder
+Decoder
+Loss
+Gradient computation & optimization
+Hands-on – Let's train an NMT model
+Inference – How to generate translations
+Intermediate
+Background on the Attention Mechanism
+Attention Wrapper API
+Hands-on – Building an attention-based NMT model
+Tips & Tricks
+Building Training, Eval, and Inference Graphs
+Data Input Pipeline
+Other details for better NMT models
+Bidirectional RNNs
+Beam search
+Hyperparameters
+Multi-GPU training
+Benchmarks
+IWSLT English-Vietnamese
+WMT German-English
+WMT English-German — Full Comparison
+Standard HParams
+Other resources
+Acknowledgment
+References
+BibTex
