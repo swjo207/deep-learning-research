@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from pickle import load
 from numpy import array
 from keras.models import load_model

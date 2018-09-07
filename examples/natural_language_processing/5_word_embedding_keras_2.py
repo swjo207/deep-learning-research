@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from numpy import array
 from numpy import asarray
 from numpy import zeros

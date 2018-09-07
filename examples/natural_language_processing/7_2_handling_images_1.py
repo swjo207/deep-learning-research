@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from os import listdir
 from os import path
 from pickle import dump

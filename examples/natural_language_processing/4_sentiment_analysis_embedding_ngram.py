@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from os import listdir
 import string
 import re

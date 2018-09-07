@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from gensim.models import KeyedVectors
 # load the google word2vec model
 filename = 'data/GoogleNews-vectors-negative300.bin'

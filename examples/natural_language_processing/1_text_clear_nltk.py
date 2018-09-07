@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from nltk import sent_tokenize
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords

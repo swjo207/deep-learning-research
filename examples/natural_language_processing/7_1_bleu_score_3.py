@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 # prefect match
 from nltk.translate.bleu_score import sentence_bleu
 reference = [['the', 'quick', 'brown', 'fox', 'jumped', 'over', 'the', 'lazy', 'dog']]

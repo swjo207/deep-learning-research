@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from numpy import array
 from keras.preprocessing.text import one_hot
 from keras.preprocessing.sequence import pad_sequences

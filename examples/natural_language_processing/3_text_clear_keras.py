@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 from keras.preprocessing.text import text_to_word_sequence
 from keras.preprocessing.text import one_hot
 from keras.preprocessing.text import hashing_trick
